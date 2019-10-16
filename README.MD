@@ -2,6 +2,8 @@ Hi, the script will display in console and write the current Raspberry Pi temper
 
 I wrote the script because I wanted to keep track of the history of the temperature, not just the current temperature that the GUI panel displays.
 
+The script currently writes out to the same place as the script itself, so feel free to change that (and edit it in any way you like).
+
 ```bash
 sudo chown USER temperature.sh
 
