@@ -1,5 +1,7 @@
 #!/bin/bash
-# refs:
+# Author: Max Hollywood
+#
+# Websites used to build this script:
 # https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/
 # https://linuxhint.com/raspberry_pi_temperature_monitor/
 # https://www.tutorialkart.com/bash-shell-scripting/bash-date-format-options-examples/
