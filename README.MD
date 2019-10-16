@@ -1,4 +1,6 @@
-Hi, the script will display in console and write the current Raspberry Pi temperature to a file.  You probably need you to change the owner or set executable permissions to run.
+Hi, the script will display in console and write the current Raspberry Pi temperature to a file.  It relies on the internal file that the Pi writes to.  You probably need you to change the owner or set executable permissions to run.
+
+I wrote the script because I wanted to keep track of the history of the temperature, not just the current temperature that the GUI panel displays.
 
 ```bash
 sudo chown USER temperature.sh
